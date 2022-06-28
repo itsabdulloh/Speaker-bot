@@ -1,7 +1,7 @@
 import requests
 
-app_id = "bea7d6fb"
-app_key = "b99878b1560496c84d66220ecfa3d7b0"
+app_id = ""
+app_key = ""
 language = "en-gb"
 
 

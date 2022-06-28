@@ -13,7 +13,7 @@ from googletrans import Translator
 
 translator = Translator()
 
-API_TOKEN = '5542314678:AAGmnjhtfG0k_hknE0sfcOnX9F495bDK3Dg'
+API_TOKEN = 'Your Telegram bot API'
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
